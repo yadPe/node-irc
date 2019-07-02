@@ -33,10 +33,6 @@
   "dependencies": {
     "irc-colors": "^1.1.0"
   },
-  "optionalDependencies": {
-    "iconv": "~2.2.1",
-    "node-icu-charset-detector": "~0.2.0"
-  },
   "devDependencies": {
     "ansi-color": "0.2.1",
     "faucet": "0.0.1",
